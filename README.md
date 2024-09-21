@@ -1,27 +1,22 @@
 # PR8_practica_de_clase
-#Solicitar al usuario que ingrese el primer número
-numero1 = input("Ingrese el número 1: ")
-#Convertir numero1 de carácter a float
-num1 = float(numero1)
-#Solicitar al usuario que ingrese el segundo número
-numero2 = input("Ingrese el número 2: ")
-#Convertir numero2 de carácter a float
-num2 = float(numero2)
-#Solicitr al usuario que ingrese el tercer número
-num3 = float(input("Ingrese el número 3: "))
-#Calcular la suma de los tres números
-suma = num1 + num2 + num3
-#Mostrar el resultado y utilizar una estructura if-else para dar diferentes mensajes
-if suma > 0:
-    print(f"El resultado es positivo: {suma}")
-elif suma < 0:
-    print(f"El resultado es negativo: {suma}")
+# Solicitar al usuario que ingrese un número
+numero = int(input("Por favor, ingresa un número: "))
+
+# Verificar si el número es cero
+if numero == 0:
+    print("El número ingresado es cero.")
+# Verificar si el número es par
+elif numero % 2 == 0:
+    print(f"El número {numero} es par.")
+# Si no es cero ni par, debe ser impar
 else:
-    print("El resultado es cero.")
+    print(f"El número {numero} es impar.")
+
 print("")
 print("Mejia Suarez Emmanuel Alexander:mi practica suma tres numeros y verifica que el numero que ingresa el usuario si es par, impar o 0 ")
 print("")
-![image](https://github.com/user-attachments/assets/e7600df6-5db9-4af5-9dc6-b2da803b1d99)
+![image](https://github.com/user-attachments/assets/a2d98f4f-acb5-4a89-b3d2-819bb20dd823)
+
 
 
 
