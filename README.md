@@ -13,7 +13,7 @@ else:
     print(f"El número {numero} es impar.")
 
 print("")
-print("Mejia Suarez Emmanuel Alexander:mi practica suma tres numeros y verifica que el numero que ingresa el usuario si es par, impar o 0 ")
+print("Mejia Suarez Emmanuel Alexander:mi practica verifica que el numero que ingresa el usuario si es par, impar o 0 ")
 print("")
 ![image](https://github.com/user-attachments/assets/a2d98f4f-acb5-4a89-b3d2-819bb20dd823)
 
