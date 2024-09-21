@@ -19,9 +19,9 @@ elif suma < 0:
 else:
     print("El resultado es cero.")
 print("")
-print("Mejia Suarez Emmanuel Alexander:mi practica suma dos números ")
+print("Mejia Suarez Emmanuel Alexander:mi practica suma tres numeros y verifica que el numero que ingresa el usuario si es par, impar o 0 ")
 print("")
-![image](https://github.com/user-attachments/assets/ff9ff58f-c3aa-4977-a83d-a98d8e4baca2)
+![image](https://github.com/user-attachments/assets/e7600df6-5db9-4af5-9dc6-b2da803b1d99)
 
 
 
