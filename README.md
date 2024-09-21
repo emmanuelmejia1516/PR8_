@@ -21,9 +21,8 @@ else:
 print("")
 print("Mejia Suarez Emmanuel Alexander:mi practica suma dos números ")
 print("")
-![image](https://github.com/user-attachments/assets/d6d0fab6-0b7c-48f9-8424-77598469551c)
-![image](https://github.com/user-attachments/assets/4f777434-5337-4f67-9146-ca8ccefc7e4d)
-![image](https://github.com/user-attachments/assets/410d51a6-2267-437b-9ec2-1ea7d9774085)
+![image](https://github.com/user-attachments/assets/ff9ff58f-c3aa-4977-a83d-a98d8e4baca2)
+
 
 
 
